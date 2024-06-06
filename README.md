@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Patrike260
-- 👀 I’m interested in Game programming
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Portfolio
+- this is to learn HTML and CSS
